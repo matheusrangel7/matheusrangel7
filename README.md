@@ -35,9 +35,3 @@
 <img src="https://raw.githubusercontent.com/matheusrangel7/matheusrangel7/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/matheusrangel7/count.svg?"  />
-</div>
-
-###
