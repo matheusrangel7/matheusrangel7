@@ -18,7 +18,7 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
 
   <!-- Logo do Vasco -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CR_Vasco_da_Gama_logo.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CR_Vasco_da_Gama_logo.svg](https://upload.wikimedia.org/wikipedia/en/a/a5/Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg" height="40" />
 </div>
 
 ###
